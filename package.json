@@ -1,22 +1,14 @@
 {
-  "name": "nodejs_readme-generator",
+  "name": "static-site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Johanstraus/Homework9.git"
-  },
-  "author": "Minh Nguyen",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4"
-  },
-  "bugs": {
-    "url": "https://github.com/Johanstraus/Homework9/issues"
-  },
-  "homepage": "https://github.com/Johanstraus/Homework9#readme"
+  }
 }
