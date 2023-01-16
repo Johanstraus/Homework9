@@ -8,7 +8,7 @@ This NodeJS README Generator takes user inputs from a terminal and populates a m
   
 # Table of Contents
 - [Installation](#installation)
-- [Examples](video example)
+- [Examples](#video example)
 
 # Installation
   
